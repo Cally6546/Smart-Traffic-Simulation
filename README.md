@@ -456,7 +456,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you use this project in research or commercial applications, please cite:
 
 ```
-Calson. (2025). Smart Traffic Intelligence System (AI-STIS).
+Calson. (2026). Smart Traffic Intelligence System (AI-STIS).
 INNOHUB KE. https://github.com/Cally6546/Smart-Traffic-Simulation.git
 ```
 
